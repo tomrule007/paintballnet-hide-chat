@@ -6,7 +6,7 @@ Bookmarklet to toggle non-player chat visibility for paintballnet.net
 
 ## HOW TO USE
 
-1. Goto [bookmarklet page](https://tomrule007.github.io/paintballnet-hide-chat/build/index.html) and copy `PBN-HideChat` link to your browser bookmarks.
+1. Goto [bookmarklet page](https://tomrule007.github.io/paintballnet-hide-chat/build) and copy `PBN-HideChat` link to your browser bookmarks.
 
 2. Open [http://paintballnet.net/play](http://paintballnet.net/play)
 3. With `paintballnet.net/play` tab active click the `PBN-HideChat` bookmark
